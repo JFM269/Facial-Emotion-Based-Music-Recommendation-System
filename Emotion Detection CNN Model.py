@@ -226,7 +226,7 @@ print(label_dict[img_index])
 plt.show()
 
 
-# In[6]:
+# In[ ]:
 
 
 train_loss, train_acc = model.evaluate(train_generator)
